@@ -1,6 +1,13 @@
 
-# Olá!!
-## Apaixonada por Tecnologia
+# Olá, SOU A GABRIELA !!
+<h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
+  <h2>Desenvolvedor Front-End Junior</h2>
+  <h2>Certificações</h2>
+  <ul>
+    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
+     <li>Curso INTRODUÇÃO Á CLOUND COMPUTING & AZURE- WOMAKERS CODE ->(Status) Concluido ✔</li>
+     <li>Curso LEI GERAL DE PROTEÇÃO DE DADOS- SENAI->(Status) Concluido ✔</li>
+  </ul>
 
 
 <div>
@@ -17,17 +24,16 @@
  
  <br>
  
-  ### ME SEGUE NAS REDES SOCIAIS
+  ### ME SEGUE NAS REDES SOCIAIS !!
  
 <div> 
  
   <a href = "mailto:gabrielasdgorks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="https://linkedin.com/in/gabriela-gorks-7646a122a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <img height="180" width="200" src="https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-logotipo-da-programacao-de-computador.png">
-  <hr>
-  
- 
+   <a href="https://linkedin.com/in/gabriela-gorks-7646a122a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+
