@@ -1,12 +1,15 @@
 
 # Olá, SOU A GABRIELA !!
 <h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos em Cibersegurança</h2>
-  <h2>Desenvolvedor Front-End Junio</h2>
+  <h2>Desenvolvedor Front-End </h2>
   <h2>Certificações</h2>
   <ul>
+     <li>Sistema de Informação - Bacharelado Uniasselvi->(Status) Cursando ✔</li>
+     <li>Suporte e Manutenção de Informática - Técnico - Instituto Federal de Educação,Ciência e Tecnologia de São Paulo / Campus São Jão da Boa Vista->(Status) Cunsando ✔</li>
     <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
-     <li>Curso INTRODUÇÃO Á CLOUND COMPUTING & AZURE- WOMAKERS CODE ->(Status) Concluido ✔</li>
+     <li>Curso Introdução a Computação em Nuvem & AZURE- WOMAKERS CODE ->(Status) Concluido ✔</li>
      <li>Curso LEI GERAL DE PROTEÇÃO DE DADOS- SENAI->(Status) Concluido ✔</li>
+    <li>Fundamentos da Compuação em Nuvem - Fundação Fat & Google Cloud->(Status) Concluido ✔</li>
   </ul>
 
 
