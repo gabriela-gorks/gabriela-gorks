@@ -1,7 +1,7 @@
 
 # Olá, SOU A GABRIELA !!
 <h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos em Cibersegurança</h2>
-  <h2>Desenvolvedor Front-End </h2>
+  <h2>Desenvolvedora Front-End </h2>
   <h2>Certificações</h2>
   <ul>
      <li>Sistema de Informação - Bacharelado Uniasselvi->(Status) Cursando ✔</li>
