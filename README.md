@@ -1,7 +1,7 @@
 
 # Olá, SOU A GABRIELA !!
-<h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
-  <h2>Desenvolvedor Front-End Junior</h2>
+<h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos em Cibersegurança</h2>
+  <h2>Desenvolvedor Front-End Junio</h2>
   <h2>Certificações</h2>
   <ul>
     <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
