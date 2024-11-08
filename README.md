@@ -1,6 +1,6 @@
 
 # Olá, SOU A GABRIELA !!
-<h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos em Cibersegurança</h2>
+<h2>Apaixonada por tecnologia, nerd e aprofundando meus conhecimentos em Cibersegurança e Cloud </h2>
   <h2>Desenvolvedora Front-End </h2>
   <h2>Certificações</h2>
   <ul>
